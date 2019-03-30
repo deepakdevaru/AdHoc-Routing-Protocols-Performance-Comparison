@@ -7,7 +7,7 @@ The code is used to run the simulation and provide 4 different types of outputs:
 3) A .csv file containing a summary of successful transmitted packets
 
 We want to be able to see how many packet are successfully received.
-This information was obtained from the .csv file. We wrote a Python code that parses the .csv file to calculate the total number of packets received during the simulationa and we named it IPpackettracer.py.
+This information was obtained from the .csv file. We wrote a Python code that parses the .csv file to calculate the total number of packets received during the simulationa and we named it TotalPackets.py.
 
 We used IPTracer.tr file to and parsed it for different protocols (AODV,DSDV,DSR) using python scripts (delay.py) and calculated the max delay and average for each type of protocols
 
