@@ -1,7 +1,7 @@
 # AdHoc-Routing-Protocols-Performance-Comparison
 Wireless and Mobile Networking Course Project 
 
-The code is used to run the simulation and provide 4 different types of outputs:
+The code is used to run the simulation and provide 3 different types of outputs:
 1) A .routes file containing routing tables of each nodes,
 2) A .tr file containing all transmissions and receptions on the network, 
 3) A .csv file containing a summary of successful transmitted packets
